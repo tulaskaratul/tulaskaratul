@@ -28,4 +28,4 @@
 
 
 | [<img src="https://github.com/tulaskaratul/tulaskaratul/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/tulaskaratul) | [<img src="https://github.com/tulaskaratul/tulaskaratul/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/AtulTulaskar8) | [<img src="https://github.com/tulaskaratul/tulaskaratul/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/tulaskaratul/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/tulaskaratul) | [<img src="https://github.com/tulaskaratul/tulaskaratul/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://github.com/tulaskaratul/tulaskaratul/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:tulaskaratul@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
